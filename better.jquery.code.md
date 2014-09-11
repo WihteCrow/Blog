@@ -273,4 +273,4 @@ jQuery就是javascript，这意味着用jQuery能做的事，同样可以用原�
 jQuery并非不可或缺，仅是一种选择
 jQuery is not a requirement，but a choice
 
-[Writing Better jQuery Code](http://modernweb.com/2013/11/25/writing-better-jquery-code/)
+来源：[Writing Better jQuery Code](http://modernweb.com/2013/11/25/writing-better-jquery-code/)
